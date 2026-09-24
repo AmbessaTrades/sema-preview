@@ -62,286 +62,6 @@
   ],
   "thoughts": [
     {
-      "id": "am-dlg-01-t01",
-      "island": "market",
-      "role": "hear",
-      "texts": {
-        "en": {
-          "text": "Hello, what would you like?",
-          "status": "native",
-          "audio": [
-            {
-              "voice": "en-KE-ChilembaNeural",
-              "src": "en/am-dlg-01-t01.mp3",
-              "ms": 1601,
-              "words": [
-                {
-                  "w": "Hello,",
-                  "s": 0,
-                  "e": 362
-                },
-                {
-                  "w": "what",
-                  "s": 549,
-                  "e": 724
-                },
-                {
-                  "w": "would",
-                  "s": 786,
-                  "e": 936
-                },
-                {
-                  "w": "you",
-                  "s": 962,
-                  "e": 1074
-                },
-                {
-                  "w": "like?",
-                  "s": 1086,
-                  "e": 1324
-                }
-              ]
-            }
-          ]
-        },
-        "am": {
-          "text": "ሰላም፣ ምን ይፈልጋሉ?",
-          "translit": "selam, min yifeligalu?",
-          "status": "fixture",
-          "audio": [
-            {
-              "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/am-dlg-01-t01.mp3",
-              "ms": 1370,
-              "words": [
-                {
-                  "w": "ሰላም፣",
-                  "s": 7,
-                  "e": 407
-                },
-                {
-                  "w": "ምን",
-                  "s": 420,
-                  "e": 570
-                },
-                {
-                  "w": "ይፈልጋሉ?",
-                  "s": 582,
-                  "e": 1120
-                }
-              ]
-            },
-            {
-              "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/am-dlg-01-t01.mp3",
-              "ms": 1406,
-              "words": [
-                {
-                  "w": "ሰላም፣",
-                  "s": 0,
-                  "e": 388
-                },
-                {
-                  "w": "ምን",
-                  "s": 413,
-                  "e": 588
-                },
-                {
-                  "w": "ይፈልጋሉ?",
-                  "s": 600,
-                  "e": 1113
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "kind": "starter",
-      "tags": [
-        "dialogue"
-      ]
-    },
-    {
-      "id": "am-dlg-01-t03",
-      "island": "market",
-      "role": "hear",
-      "texts": {
-        "en": {
-          "text": "All right, here it is.",
-          "status": "native",
-          "audio": [
-            {
-              "voice": "en-KE-ChilembaNeural",
-              "src": "en/am-dlg-01-t03.mp3",
-              "ms": 1709,
-              "words": [
-                {
-                  "w": "All",
-                  "s": 15,
-                  "e": 240
-                },
-                {
-                  "w": "right,",
-                  "s": 278,
-                  "e": 528
-                },
-                {
-                  "w": "here",
-                  "s": 728,
-                  "e": 965
-                },
-                {
-                  "w": "it",
-                  "s": 1040,
-                  "e": 1202
-                },
-                {
-                  "w": "is.",
-                  "s": 1215,
-                  "e": 1502
-                }
-              ]
-            }
-          ]
-        },
-        "am": {
-          "text": "እሺ፣ ይኸውና።",
-          "translit": "ishi, yihewna.",
-          "status": "fixture",
-          "audio": [
-            {
-              "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/am-dlg-01-t03.mp3",
-              "ms": 943,
-              "words": [
-                {
-                  "w": "እሺ፣",
-                  "s": 0,
-                  "e": 204
-                },
-                {
-                  "w": "ይኸውና።",
-                  "s": 342,
-                  "e": 666
-                }
-              ]
-            },
-            {
-              "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/am-dlg-01-t03.mp3",
-              "ms": 936,
-              "words": [
-                {
-                  "w": "እሺ፣",
-                  "s": 0,
-                  "e": 236
-                },
-                {
-                  "w": "ይኸውና።",
-                  "s": 348,
-                  "e": 660
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "kind": "starter",
-      "tags": [
-        "dialogue"
-      ]
-    },
-    {
-      "id": "am-dlg-01-t05",
-      "island": "market",
-      "role": "hear",
-      "texts": {
-        "en": {
-          "text": "It's twenty birr.",
-          "status": "native",
-          "audio": [
-            {
-              "voice": "en-KE-ChilembaNeural",
-              "src": "en/am-dlg-01-t05.mp3",
-              "ms": 1052,
-              "words": [
-                {
-                  "w": "It's",
-                  "s": 7,
-                  "e": 257
-                },
-                {
-                  "w": "twenty",
-                  "s": 320,
-                  "e": 570
-                },
-                {
-                  "w": "birr.",
-                  "s": 644,
-                  "e": 857
-                }
-              ]
-            }
-          ]
-        },
-        "am": {
-          "text": "ሃያ ብር ነው።",
-          "translit": "haya birr new.",
-          "status": "fixture",
-          "audio": [
-            {
-              "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/am-dlg-01-t05.mp3",
-              "ms": 904,
-              "words": [
-                {
-                  "w": "ሃያ",
-                  "s": 5,
-                  "e": 280
-                },
-                {
-                  "w": "ብር",
-                  "s": 330,
-                  "e": 505
-                },
-                {
-                  "w": "ነው።",
-                  "s": 542,
-                  "e": 692
-                }
-              ]
-            },
-            {
-              "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/am-dlg-01-t05.mp3",
-              "ms": 965,
-              "words": [
-                {
-                  "w": "ሃያ",
-                  "s": 16,
-                  "e": 266
-                },
-                {
-                  "w": "ብር",
-                  "s": 354,
-                  "e": 541
-                },
-                {
-                  "w": "ነው።",
-                  "s": 578,
-                  "e": 716
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "kind": "starter",
-      "tags": [
-        "dialogue"
-      ]
-    },
-    {
       "id": "st-0001",
       "island": "greetings",
       "role": "say",
@@ -352,7 +72,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0001.mp3",
+              "src": "en/st-0001.639a531b.mp3",
               "ms": 875,
               "words": [
                 {
@@ -377,7 +97,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0001.mp3",
+              "src": "am-ET-MekdesNeural/st-0001.82e9db76.mp3",
               "ms": 1021,
               "words": [
                 {
@@ -394,7 +114,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0001.mp3",
+              "src": "am-ET-AmehaNeural/st-0001.5dc3e1d8.mp3",
               "ms": 1064,
               "words": [
                 {
@@ -417,7 +137,7 @@
               "audio": [
                 {
                   "voice": "am-ET-MekdesNeural",
-                  "src": "am-ET-MekdesNeural/st-0001.addressee_f.mp3",
+                  "src": "am-ET-MekdesNeural/st-0001.addressee_f.e55281b3.mp3",
                   "ms": 1060,
                   "words": [
                     {
@@ -434,7 +154,7 @@
                 },
                 {
                   "voice": "am-ET-AmehaNeural",
-                  "src": "am-ET-AmehaNeural/st-0001.addressee_f.mp3",
+                  "src": "am-ET-AmehaNeural/st-0001.addressee_f.a8bc4a04.mp3",
                   "ms": 1116,
                   "words": [
                     {
@@ -468,7 +188,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0002.mp3",
+              "src": "en/st-0002.2398abd1.mp3",
               "ms": 806,
               "words": [
                 {
@@ -497,7 +217,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0002.mp3",
+              "src": "am-ET-MekdesNeural/st-0002.a678362f.mp3",
               "ms": 798,
               "words": [
                 {
@@ -514,7 +234,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0002.mp3",
+              "src": "am-ET-AmehaNeural/st-0002.ef4a3300.mp3",
               "ms": 886,
               "words": [
                 {
@@ -537,7 +257,7 @@
               "audio": [
                 {
                   "voice": "am-ET-MekdesNeural",
-                  "src": "am-ET-MekdesNeural/st-0002.addressee_f.mp3",
+                  "src": "am-ET-MekdesNeural/st-0002.addressee_f.f98db3b5.mp3",
                   "ms": 878,
                   "words": [
                     {
@@ -554,7 +274,7 @@
                 },
                 {
                   "voice": "am-ET-AmehaNeural",
-                  "src": "am-ET-AmehaNeural/st-0002.addressee_f.mp3",
+                  "src": "am-ET-AmehaNeural/st-0002.addressee_f.d0b51004.mp3",
                   "ms": 939,
                   "words": [
                     {
@@ -588,7 +308,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0003.mp3",
+              "src": "en/st-0003.6eb7edf4.mp3",
               "ms": 1570,
               "words": [
                 {
@@ -622,7 +342,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0003.mp3",
+              "src": "am-ET-MekdesNeural/st-0003.9bef8c1a.mp3",
               "ms": 1836,
               "words": [
                 {
@@ -649,7 +369,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0003.mp3",
+              "src": "am-ET-AmehaNeural/st-0003.eca4f050.mp3",
               "ms": 1871,
               "words": [
                 {
@@ -691,7 +411,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0004.mp3",
+              "src": "en/st-0004.ae6ddab8.mp3",
               "ms": 1189,
               "words": [
                 {
@@ -725,7 +445,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0004.mp3",
+              "src": "am-ET-MekdesNeural/st-0004.fe2d4a21.mp3",
               "ms": 1319,
               "words": [
                 {
@@ -742,7 +462,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0004.mp3",
+              "src": "am-ET-AmehaNeural/st-0004.7ebf896d.mp3",
               "ms": 1320,
               "words": [
                 {
@@ -774,7 +494,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0005.mp3",
+              "src": "en/st-0005.e53be793.mp3",
               "ms": 1070,
               "words": [
                 {
@@ -808,7 +528,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0005.mp3",
+              "src": "am-ET-MekdesNeural/st-0005.5498b8a5.mp3",
               "ms": 996,
               "words": [
                 {
@@ -830,7 +550,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0005.mp3",
+              "src": "am-ET-AmehaNeural/st-0005.0f18b383.mp3",
               "ms": 986,
               "words": [
                 {
@@ -858,7 +578,7 @@
               "audio": [
                 {
                   "voice": "am-ET-MekdesNeural",
-                  "src": "am-ET-MekdesNeural/st-0005.addressee_f.mp3",
+                  "src": "am-ET-MekdesNeural/st-0005.addressee_f.3a742306.mp3",
                   "ms": 1061,
                   "words": [
                     {
@@ -880,7 +600,7 @@
                 },
                 {
                   "voice": "am-ET-AmehaNeural",
-                  "src": "am-ET-AmehaNeural/st-0005.addressee_f.mp3",
+                  "src": "am-ET-AmehaNeural/st-0005.addressee_f.14f3299a.mp3",
                   "ms": 1058,
                   "words": [
                     {
@@ -919,7 +639,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0006.mp3",
+              "src": "en/st-0006.59518e74.mp3",
               "ms": 1202,
               "words": [
                 {
@@ -953,7 +673,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0006.mp3",
+              "src": "am-ET-MekdesNeural/st-0006.b8c0355f.mp3",
               "ms": 1052,
               "words": [
                 {
@@ -975,7 +695,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0006.mp3",
+              "src": "am-ET-AmehaNeural/st-0006.26168413.mp3",
               "ms": 1051,
               "words": [
                 {
@@ -1012,7 +732,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0007.mp3",
+              "src": "en/st-0007.766417eb.mp3",
               "ms": 1281,
               "words": [
                 {
@@ -1041,7 +761,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0007.mp3",
+              "src": "am-ET-MekdesNeural/st-0007.79224932.mp3",
               "ms": 835,
               "words": [
                 {
@@ -1053,7 +773,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0007.mp3",
+              "src": "am-ET-AmehaNeural/st-0007.d5ae3de2.mp3",
               "ms": 895,
               "words": [
                 {
@@ -1080,7 +800,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0008.mp3",
+              "src": "en/st-0008.868f20de.mp3",
               "ms": 1243,
               "words": [
                 {
@@ -1114,7 +834,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0008.mp3",
+              "src": "am-ET-MekdesNeural/st-0008.76e9bf85.mp3",
               "ms": 1060,
               "words": [
                 {
@@ -1131,7 +851,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0008.mp3",
+              "src": "am-ET-AmehaNeural/st-0008.92b29faf.mp3",
               "ms": 1144,
               "words": [
                 {
@@ -1154,7 +874,7 @@
               "audio": [
                 {
                   "voice": "am-ET-MekdesNeural",
-                  "src": "am-ET-MekdesNeural/st-0008.addressee_f.mp3",
+                  "src": "am-ET-MekdesNeural/st-0008.addressee_f.40216bdb.mp3",
                   "ms": 1103,
                   "words": [
                     {
@@ -1171,7 +891,7 @@
                 },
                 {
                   "voice": "am-ET-AmehaNeural",
-                  "src": "am-ET-AmehaNeural/st-0008.addressee_f.mp3",
+                  "src": "am-ET-AmehaNeural/st-0008.addressee_f.a828509e.mp3",
                   "ms": 1136,
                   "words": [
                     {
@@ -1205,7 +925,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0009.mp3",
+              "src": "en/st-0009.f6c2d45c.mp3",
               "ms": 1181,
               "words": [
                 {
@@ -1239,7 +959,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0009.mp3",
+              "src": "am-ET-MekdesNeural/st-0009.70265b1b.mp3",
               "ms": 980,
               "words": [
                 {
@@ -1261,7 +981,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0009.mp3",
+              "src": "am-ET-AmehaNeural/st-0009.c8fc6c2d.mp3",
               "ms": 1045,
               "words": [
                 {
@@ -1298,7 +1018,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0010.mp3",
+              "src": "en/st-0010.9801cd77.mp3",
               "ms": 995,
               "words": [
                 {
@@ -1327,7 +1047,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0010.mp3",
+              "src": "am-ET-MekdesNeural/st-0010.366af877.mp3",
               "ms": 1058,
               "words": [
                 {
@@ -1344,7 +1064,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0010.mp3",
+              "src": "am-ET-AmehaNeural/st-0010.f16b2b3f.mp3",
               "ms": 1103,
               "words": [
                 {
@@ -1376,7 +1096,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0011.mp3",
+              "src": "en/st-0011.5f996832.mp3",
               "ms": 1370,
               "words": [
                 {
@@ -1410,7 +1130,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0011.mp3",
+              "src": "am-ET-MekdesNeural/st-0011.b7009237.mp3",
               "ms": 1133,
               "words": [
                 {
@@ -1437,7 +1157,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0011.mp3",
+              "src": "am-ET-AmehaNeural/st-0011.43ca0872.mp3",
               "ms": 1199,
               "words": [
                 {
@@ -1479,7 +1199,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0012.mp3",
+              "src": "en/st-0012.c081939a.mp3",
               "ms": 1322,
               "words": [
                 {
@@ -1508,7 +1228,7 @@
           "audio": [
             {
               "voice": "am-ET-MekdesNeural",
-              "src": "am-ET-MekdesNeural/st-0012.mp3",
+              "src": "am-ET-MekdesNeural/st-0012.1eac4725.mp3",
               "ms": 1456,
               "words": [
                 {
@@ -1530,7 +1250,7 @@
             },
             {
               "voice": "am-ET-AmehaNeural",
-              "src": "am-ET-AmehaNeural/st-0012.mp3",
+              "src": "am-ET-AmehaNeural/st-0012.eaa94ed4.mp3",
               "ms": 1514,
               "words": [
                 {
@@ -1555,6 +1275,286 @@
       },
       "kind": "starter",
       "core": true
+    },
+    {
+      "id": "am-dlg-01-t01",
+      "island": "market",
+      "role": "hear",
+      "texts": {
+        "en": {
+          "text": "Hello, what would you like?",
+          "status": "native",
+          "audio": [
+            {
+              "voice": "en-KE-ChilembaNeural",
+              "src": "en/am-dlg-01-t01.04b14b64.mp3",
+              "ms": 1601,
+              "words": [
+                {
+                  "w": "Hello,",
+                  "s": 0,
+                  "e": 362
+                },
+                {
+                  "w": "what",
+                  "s": 549,
+                  "e": 724
+                },
+                {
+                  "w": "would",
+                  "s": 786,
+                  "e": 936
+                },
+                {
+                  "w": "you",
+                  "s": 962,
+                  "e": 1074
+                },
+                {
+                  "w": "like?",
+                  "s": 1086,
+                  "e": 1324
+                }
+              ]
+            }
+          ]
+        },
+        "am": {
+          "text": "ሰላም፣ ምን ይፈልጋሉ?",
+          "translit": "selam, min yifeligalu?",
+          "status": "fixture",
+          "audio": [
+            {
+              "voice": "am-ET-MekdesNeural",
+              "src": "am-ET-MekdesNeural/am-dlg-01-t01.62f3b28d.mp3",
+              "ms": 1370,
+              "words": [
+                {
+                  "w": "ሰላም፣",
+                  "s": 7,
+                  "e": 407
+                },
+                {
+                  "w": "ምን",
+                  "s": 420,
+                  "e": 570
+                },
+                {
+                  "w": "ይፈልጋሉ?",
+                  "s": 582,
+                  "e": 1120
+                }
+              ]
+            },
+            {
+              "voice": "am-ET-AmehaNeural",
+              "src": "am-ET-AmehaNeural/am-dlg-01-t01.060f1a3d.mp3",
+              "ms": 1406,
+              "words": [
+                {
+                  "w": "ሰላም፣",
+                  "s": 0,
+                  "e": 388
+                },
+                {
+                  "w": "ምን",
+                  "s": 413,
+                  "e": 588
+                },
+                {
+                  "w": "ይፈልጋሉ?",
+                  "s": 600,
+                  "e": 1113
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "kind": "starter",
+      "tags": [
+        "dialogue"
+      ]
+    },
+    {
+      "id": "am-dlg-01-t03",
+      "island": "market",
+      "role": "hear",
+      "texts": {
+        "en": {
+          "text": "All right, here it is.",
+          "status": "native",
+          "audio": [
+            {
+              "voice": "en-KE-ChilembaNeural",
+              "src": "en/am-dlg-01-t03.d44c318c.mp3",
+              "ms": 1709,
+              "words": [
+                {
+                  "w": "All",
+                  "s": 15,
+                  "e": 240
+                },
+                {
+                  "w": "right,",
+                  "s": 278,
+                  "e": 528
+                },
+                {
+                  "w": "here",
+                  "s": 728,
+                  "e": 965
+                },
+                {
+                  "w": "it",
+                  "s": 1040,
+                  "e": 1202
+                },
+                {
+                  "w": "is.",
+                  "s": 1215,
+                  "e": 1502
+                }
+              ]
+            }
+          ]
+        },
+        "am": {
+          "text": "እሺ፣ ይኸውና።",
+          "translit": "ishi, yihewna.",
+          "status": "fixture",
+          "audio": [
+            {
+              "voice": "am-ET-MekdesNeural",
+              "src": "am-ET-MekdesNeural/am-dlg-01-t03.1ed0798d.mp3",
+              "ms": 943,
+              "words": [
+                {
+                  "w": "እሺ፣",
+                  "s": 0,
+                  "e": 204
+                },
+                {
+                  "w": "ይኸውና።",
+                  "s": 342,
+                  "e": 666
+                }
+              ]
+            },
+            {
+              "voice": "am-ET-AmehaNeural",
+              "src": "am-ET-AmehaNeural/am-dlg-01-t03.e35d4016.mp3",
+              "ms": 936,
+              "words": [
+                {
+                  "w": "እሺ፣",
+                  "s": 0,
+                  "e": 236
+                },
+                {
+                  "w": "ይኸውና።",
+                  "s": 348,
+                  "e": 660
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "kind": "starter",
+      "tags": [
+        "dialogue"
+      ]
+    },
+    {
+      "id": "am-dlg-01-t05",
+      "island": "market",
+      "role": "hear",
+      "texts": {
+        "en": {
+          "text": "It's twenty birr.",
+          "status": "native",
+          "audio": [
+            {
+              "voice": "en-KE-ChilembaNeural",
+              "src": "en/am-dlg-01-t05.154912a8.mp3",
+              "ms": 1052,
+              "words": [
+                {
+                  "w": "It's",
+                  "s": 7,
+                  "e": 257
+                },
+                {
+                  "w": "twenty",
+                  "s": 320,
+                  "e": 570
+                },
+                {
+                  "w": "birr.",
+                  "s": 644,
+                  "e": 857
+                }
+              ]
+            }
+          ]
+        },
+        "am": {
+          "text": "ሃያ ብር ነው።",
+          "translit": "haya birr new.",
+          "status": "fixture",
+          "audio": [
+            {
+              "voice": "am-ET-MekdesNeural",
+              "src": "am-ET-MekdesNeural/am-dlg-01-t05.6b162726.mp3",
+              "ms": 904,
+              "words": [
+                {
+                  "w": "ሃያ",
+                  "s": 5,
+                  "e": 280
+                },
+                {
+                  "w": "ብር",
+                  "s": 330,
+                  "e": 505
+                },
+                {
+                  "w": "ነው።",
+                  "s": 542,
+                  "e": 692
+                }
+              ]
+            },
+            {
+              "voice": "am-ET-AmehaNeural",
+              "src": "am-ET-AmehaNeural/am-dlg-01-t05.c11424c9.mp3",
+              "ms": 965,
+              "words": [
+                {
+                  "w": "ሃያ",
+                  "s": 16,
+                  "e": 266
+                },
+                {
+                  "w": "ብር",
+                  "s": 354,
+                  "e": 541
+                },
+                {
+                  "w": "ነው።",
+                  "s": 578,
+                  "e": 716
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "kind": "starter",
+      "tags": [
+        "dialogue"
+      ]
     }
   ],
   "dialogues": [
@@ -1625,7 +1625,7 @@
       "audio": [
         {
           "voice": "am-ET-MekdesNeural",
-          "src": "proverbs/am-pv-001.mp3",
+          "src": "proverbs/am-pv-001.d0e40d93.mp3",
           "ms": 2040,
           "words": [
             {

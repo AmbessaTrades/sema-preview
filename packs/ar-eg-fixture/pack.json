@@ -62,211 +62,6 @@
   ],
   "thoughts": [
     {
-      "id": "ar-dlg-01-t01",
-      "island": "market",
-      "role": "hear",
-      "texts": {
-        "en": {
-          "text": "Welcome.",
-          "status": "native",
-          "audio": [
-            {
-              "voice": "en-KE-ChilembaNeural",
-              "src": "en/ar-dlg-01-t01.mp3",
-              "ms": 689,
-              "words": [
-                {
-                  "w": "Welcome.",
-                  "s": 20,
-                  "e": 545
-                }
-              ]
-            }
-          ]
-        },
-        "ar-EG": {
-          "text": "أهلا وسهلا.",
-          "translit": "ahlan wa sahlan.",
-          "status": "fixture",
-          "audio": [
-            {
-              "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/ar-dlg-01-t01.mp3",
-              "ms": 1254,
-              "words": [
-                {
-                  "w": "أهلا",
-                  "s": 0,
-                  "e": 406
-                },
-                {
-                  "w": "وسهلا.",
-                  "s": 419,
-                  "e": 1182
-                }
-              ]
-            },
-            {
-              "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/ar-dlg-01-t01.mp3",
-              "ms": 1271,
-              "words": [
-                {
-                  "w": "أهلا",
-                  "s": 40,
-                  "e": 428
-                },
-                {
-                  "w": "وسهلا.",
-                  "s": 428,
-                  "e": 1190
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "kind": "starter",
-      "tags": [
-        "dialogue"
-      ]
-    },
-    {
-      "id": "ar-dlg-01-t03",
-      "island": "market",
-      "role": "hear",
-      "texts": {
-        "en": {
-          "text": "Sure.",
-          "status": "native",
-          "audio": [
-            {
-              "voice": "en-KE-ChilembaNeural",
-              "src": "en/ar-dlg-01-t03.mp3",
-              "ms": 565,
-              "words": [
-                {
-                  "w": "Sure.",
-                  "s": 16,
-                  "e": 354
-                }
-              ]
-            }
-          ]
-        },
-        "ar-EG": {
-          "text": "حاضر.",
-          "translit": "haadir.",
-          "status": "fixture",
-          "audio": [
-            {
-              "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/ar-dlg-01-t03.mp3",
-              "ms": 836,
-              "words": [
-                {
-                  "w": "حاضر.",
-                  "s": 0,
-                  "e": 817
-                }
-              ]
-            },
-            {
-              "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/ar-dlg-01-t03.mp3",
-              "ms": 962,
-              "words": [
-                {
-                  "w": "حاضر.",
-                  "s": 0,
-                  "e": 932
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "kind": "starter",
-      "tags": [
-        "dialogue"
-      ]
-    },
-    {
-      "id": "ar-dlg-01-t05",
-      "island": "market",
-      "role": "hear",
-      "texts": {
-        "en": {
-          "text": "Ten pounds.",
-          "status": "native",
-          "audio": [
-            {
-              "voice": "en-KE-ChilembaNeural",
-              "src": "en/ar-dlg-01-t05.mp3",
-              "ms": 884,
-              "words": [
-                {
-                  "w": "Ten",
-                  "s": 33,
-                  "e": 233
-                },
-                {
-                  "w": "pounds.",
-                  "s": 296,
-                  "e": 720
-                }
-              ]
-            }
-          ]
-        },
-        "ar-EG": {
-          "text": "بعشرة جنيه.",
-          "translit": "bi-ʿashara gineeh.",
-          "status": "fixture",
-          "audio": [
-            {
-              "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/ar-dlg-01-t05.mp3",
-              "ms": 1425,
-              "words": [
-                {
-                  "w": "بعشرة",
-                  "s": 1,
-                  "e": 764
-                },
-                {
-                  "w": "جنيه.",
-                  "s": 776,
-                  "e": 1338
-                }
-              ]
-            },
-            {
-              "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/ar-dlg-01-t05.mp3",
-              "ms": 1370,
-              "words": [
-                {
-                  "w": "بعشرة",
-                  "s": 3,
-                  "e": 740
-                },
-                {
-                  "w": "جنيه.",
-                  "s": 740,
-                  "e": 1366
-                }
-              ]
-            }
-          ]
-        }
-      },
-      "kind": "starter",
-      "tags": [
-        "dialogue"
-      ]
-    },
-    {
       "id": "st-0001",
       "island": "greetings",
       "role": "say",
@@ -277,7 +72,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0001.mp3",
+              "src": "en/st-0001.639a531b.mp3",
               "ms": 875,
               "words": [
                 {
@@ -302,7 +97,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0001.mp3",
+              "src": "ar-EG-SalmaNeural/st-0001.df2ad3e2.mp3",
               "ms": 1207,
               "words": [
                 {
@@ -319,7 +114,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0001.mp3",
+              "src": "ar-EG-ShakirNeural/st-0001.7de1f586.mp3",
               "ms": 1271,
               "words": [
                 {
@@ -351,7 +146,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0002.mp3",
+              "src": "en/st-0002.2398abd1.mp3",
               "ms": 806,
               "words": [
                 {
@@ -381,7 +176,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0002.mp3",
+              "src": "ar-EG-SalmaNeural/st-0002.b68bc9af.mp3",
               "ms": 887,
               "words": [
                 {
@@ -393,7 +188,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0002.mp3",
+              "src": "ar-EG-ShakirNeural/st-0002.7acb438f.mp3",
               "ms": 773,
               "words": [
                 {
@@ -411,7 +206,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0002.addressee_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0002.addressee_f.68ffb1c0.mp3",
                   "ms": 718,
                   "words": [
                     {
@@ -423,7 +218,7 @@
                 },
                 {
                   "voice": "ar-EG-ShakirNeural",
-                  "src": "ar-EG-ShakirNeural/st-0002.addressee_f.mp3",
+                  "src": "ar-EG-ShakirNeural/st-0002.addressee_f.615d6a90.mp3",
                   "ms": 866,
                   "words": [
                     {
@@ -452,7 +247,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0003.mp3",
+              "src": "en/st-0003.6eb7edf4.mp3",
               "ms": 1570,
               "words": [
                 {
@@ -486,7 +281,7 @@
           "audio": [
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0003.mp3",
+              "src": "ar-EG-ShakirNeural/st-0003.a35ab952.mp3",
               "ms": 2808,
               "words": [
                 {
@@ -514,7 +309,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0003.speaker_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0003.speaker_f.d6bd7990.mp3",
                   "ms": 2006,
                   "words": [
                     {
@@ -553,7 +348,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0004.mp3",
+              "src": "en/st-0004.ae6ddab8.mp3",
               "ms": 1189,
               "words": [
                 {
@@ -587,7 +382,7 @@
           "audio": [
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0004.mp3",
+              "src": "ar-EG-ShakirNeural/st-0004.a1bdb265.mp3",
               "ms": 1344,
               "words": [
                 {
@@ -610,7 +405,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0004.speaker_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0004.speaker_f.257451fc.mp3",
                   "ms": 1529,
                   "words": [
                     {
@@ -644,7 +439,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0005.mp3",
+              "src": "en/st-0005.e53be793.mp3",
               "ms": 1070,
               "words": [
                 {
@@ -678,7 +473,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0005.mp3",
+              "src": "ar-EG-SalmaNeural/st-0005.030573b3.mp3",
               "ms": 1035,
               "words": [
                 {
@@ -695,7 +490,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0005.mp3",
+              "src": "ar-EG-ShakirNeural/st-0005.124f1211.mp3",
               "ms": 965,
               "words": [
                 {
@@ -718,7 +513,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0005.addressee_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0005.addressee_f.16420e54.mp3",
                   "ms": 1046,
                   "words": [
                     {
@@ -735,7 +530,7 @@
                 },
                 {
                   "voice": "ar-EG-ShakirNeural",
-                  "src": "ar-EG-ShakirNeural/st-0005.addressee_f.mp3",
+                  "src": "ar-EG-ShakirNeural/st-0005.addressee_f.33f2ae7d.mp3",
                   "ms": 948,
                   "words": [
                     {
@@ -769,7 +564,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0006.mp3",
+              "src": "en/st-0006.59518e74.mp3",
               "ms": 1202,
               "words": [
                 {
@@ -803,7 +598,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0006.mp3",
+              "src": "ar-EG-SalmaNeural/st-0006.185d5597.mp3",
               "ms": 1046,
               "words": [
                 {
@@ -820,7 +615,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0006.mp3",
+              "src": "ar-EG-ShakirNeural/st-0006.7f7b97ff.mp3",
               "ms": 1140,
               "words": [
                 {
@@ -852,7 +647,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0007.mp3",
+              "src": "en/st-0007.766417eb.mp3",
               "ms": 1281,
               "words": [
                 {
@@ -881,7 +676,7 @@
           "audio": [
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0007.mp3",
+              "src": "ar-EG-ShakirNeural/st-0007.34cea5ce.mp3",
               "ms": 1107,
               "words": [
                 {
@@ -904,7 +699,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0007.speaker_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0007.speaker_f.5253cfc3.mp3",
                   "ms": 1090,
                   "words": [
                     {
@@ -938,7 +733,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0008.mp3",
+              "src": "en/st-0008.868f20de.mp3",
               "ms": 1243,
               "words": [
                 {
@@ -972,7 +767,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0008.mp3",
+              "src": "ar-EG-SalmaNeural/st-0008.703f7c7a.mp3",
               "ms": 2229,
               "words": [
                 {
@@ -999,7 +794,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0008.mp3",
+              "src": "ar-EG-ShakirNeural/st-0008.466af022.mp3",
               "ms": 2434,
               "words": [
                 {
@@ -1032,7 +827,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0008.addressee_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0008.addressee_f.0aaa2eec.mp3",
                   "ms": 2398,
                   "words": [
                     {
@@ -1059,7 +854,7 @@
                 },
                 {
                   "voice": "ar-EG-ShakirNeural",
-                  "src": "ar-EG-ShakirNeural/st-0008.addressee_f.mp3",
+                  "src": "ar-EG-ShakirNeural/st-0008.addressee_f.a969b5e2.mp3",
                   "ms": 2454,
                   "words": [
                     {
@@ -1103,7 +898,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0009.mp3",
+              "src": "en/st-0009.f6c2d45c.mp3",
               "ms": 1181,
               "words": [
                 {
@@ -1137,7 +932,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0009.mp3",
+              "src": "ar-EG-SalmaNeural/st-0009.20d21ac1.mp3",
               "ms": 1167,
               "words": [
                 {
@@ -1154,7 +949,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0009.mp3",
+              "src": "ar-EG-ShakirNeural/st-0009.9e9336bb.mp3",
               "ms": 1064,
               "words": [
                 {
@@ -1186,7 +981,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0010.mp3",
+              "src": "en/st-0010.9801cd77.mp3",
               "ms": 995,
               "words": [
                 {
@@ -1215,7 +1010,7 @@
           "audio": [
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0010.mp3",
+              "src": "ar-EG-ShakirNeural/st-0010.d10e0adb.mp3",
               "ms": 1253,
               "words": [
                 {
@@ -1243,7 +1038,7 @@
               "audio": [
                 {
                   "voice": "ar-EG-SalmaNeural",
-                  "src": "ar-EG-SalmaNeural/st-0010.speaker_f.mp3",
+                  "src": "ar-EG-SalmaNeural/st-0010.speaker_f.23fd7c1b.mp3",
                   "ms": 1293,
                   "words": [
                     {
@@ -1282,7 +1077,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0011.mp3",
+              "src": "en/st-0011.5f996832.mp3",
               "ms": 1370,
               "words": [
                 {
@@ -1316,7 +1111,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0011.mp3",
+              "src": "ar-EG-SalmaNeural/st-0011.2cd83857.mp3",
               "ms": 1458,
               "words": [
                 {
@@ -1333,7 +1128,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0011.mp3",
+              "src": "ar-EG-ShakirNeural/st-0011.4598c3f9.mp3",
               "ms": 1365,
               "words": [
                 {
@@ -1365,7 +1160,7 @@
           "audio": [
             {
               "voice": "en-KE-ChilembaNeural",
-              "src": "en/st-0012.mp3",
+              "src": "en/st-0012.ddea394a.mp3",
               "ms": 1329,
               "words": [
                 {
@@ -1394,7 +1189,7 @@
           "audio": [
             {
               "voice": "ar-EG-SalmaNeural",
-              "src": "ar-EG-SalmaNeural/st-0012.mp3",
+              "src": "ar-EG-SalmaNeural/st-0012.fcfbfc3e.mp3",
               "ms": 1706,
               "words": [
                 {
@@ -1416,7 +1211,7 @@
             },
             {
               "voice": "ar-EG-ShakirNeural",
-              "src": "ar-EG-ShakirNeural/st-0012.mp3",
+              "src": "ar-EG-ShakirNeural/st-0012.2928894d.mp3",
               "ms": 1596,
               "words": [
                 {
@@ -1441,6 +1236,211 @@
       },
       "kind": "starter",
       "core": true
+    },
+    {
+      "id": "ar-dlg-01-t01",
+      "island": "market",
+      "role": "hear",
+      "texts": {
+        "en": {
+          "text": "Welcome.",
+          "status": "native",
+          "audio": [
+            {
+              "voice": "en-KE-ChilembaNeural",
+              "src": "en/ar-dlg-01-t01.c10f986e.mp3",
+              "ms": 689,
+              "words": [
+                {
+                  "w": "Welcome.",
+                  "s": 20,
+                  "e": 545
+                }
+              ]
+            }
+          ]
+        },
+        "ar-EG": {
+          "text": "أهلا وسهلا.",
+          "translit": "ahlan wa sahlan.",
+          "status": "fixture",
+          "audio": [
+            {
+              "voice": "ar-EG-SalmaNeural",
+              "src": "ar-EG-SalmaNeural/ar-dlg-01-t01.ae77af1a.mp3",
+              "ms": 1254,
+              "words": [
+                {
+                  "w": "أهلا",
+                  "s": 0,
+                  "e": 406
+                },
+                {
+                  "w": "وسهلا.",
+                  "s": 419,
+                  "e": 1182
+                }
+              ]
+            },
+            {
+              "voice": "ar-EG-ShakirNeural",
+              "src": "ar-EG-ShakirNeural/ar-dlg-01-t01.7dbef366.mp3",
+              "ms": 1271,
+              "words": [
+                {
+                  "w": "أهلا",
+                  "s": 40,
+                  "e": 428
+                },
+                {
+                  "w": "وسهلا.",
+                  "s": 428,
+                  "e": 1190
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "kind": "starter",
+      "tags": [
+        "dialogue"
+      ]
+    },
+    {
+      "id": "ar-dlg-01-t03",
+      "island": "market",
+      "role": "hear",
+      "texts": {
+        "en": {
+          "text": "Sure.",
+          "status": "native",
+          "audio": [
+            {
+              "voice": "en-KE-ChilembaNeural",
+              "src": "en/ar-dlg-01-t03.2d08feea.mp3",
+              "ms": 565,
+              "words": [
+                {
+                  "w": "Sure.",
+                  "s": 16,
+                  "e": 354
+                }
+              ]
+            }
+          ]
+        },
+        "ar-EG": {
+          "text": "حاضر.",
+          "translit": "haadir.",
+          "status": "fixture",
+          "audio": [
+            {
+              "voice": "ar-EG-SalmaNeural",
+              "src": "ar-EG-SalmaNeural/ar-dlg-01-t03.226ec141.mp3",
+              "ms": 836,
+              "words": [
+                {
+                  "w": "حاضر.",
+                  "s": 0,
+                  "e": 817
+                }
+              ]
+            },
+            {
+              "voice": "ar-EG-ShakirNeural",
+              "src": "ar-EG-ShakirNeural/ar-dlg-01-t03.b986fe70.mp3",
+              "ms": 962,
+              "words": [
+                {
+                  "w": "حاضر.",
+                  "s": 0,
+                  "e": 932
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "kind": "starter",
+      "tags": [
+        "dialogue"
+      ]
+    },
+    {
+      "id": "ar-dlg-01-t05",
+      "island": "market",
+      "role": "hear",
+      "texts": {
+        "en": {
+          "text": "Ten pounds.",
+          "status": "native",
+          "audio": [
+            {
+              "voice": "en-KE-ChilembaNeural",
+              "src": "en/ar-dlg-01-t05.b304b8b9.mp3",
+              "ms": 884,
+              "words": [
+                {
+                  "w": "Ten",
+                  "s": 33,
+                  "e": 233
+                },
+                {
+                  "w": "pounds.",
+                  "s": 296,
+                  "e": 720
+                }
+              ]
+            }
+          ]
+        },
+        "ar-EG": {
+          "text": "بعشرة جنيه.",
+          "translit": "bi-ʿashara gineeh.",
+          "status": "fixture",
+          "audio": [
+            {
+              "voice": "ar-EG-SalmaNeural",
+              "src": "ar-EG-SalmaNeural/ar-dlg-01-t05.37f22f4e.mp3",
+              "ms": 1425,
+              "words": [
+                {
+                  "w": "بعشرة",
+                  "s": 1,
+                  "e": 764
+                },
+                {
+                  "w": "جنيه.",
+                  "s": 776,
+                  "e": 1338
+                }
+              ]
+            },
+            {
+              "voice": "ar-EG-ShakirNeural",
+              "src": "ar-EG-ShakirNeural/ar-dlg-01-t05.fbe0a1d4.mp3",
+              "ms": 1370,
+              "words": [
+                {
+                  "w": "بعشرة",
+                  "s": 3,
+                  "e": 740
+                },
+                {
+                  "w": "جنيه.",
+                  "s": 740,
+                  "e": 1366
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "kind": "starter",
+      "tags": [
+        "dialogue"
+      ]
     }
   ],
   "dialogues": [
@@ -1511,7 +1511,7 @@
       "audio": [
         {
           "voice": "ar-EG-SalmaNeural",
-          "src": "proverbs/ar-pv-001.mp3",
+          "src": "proverbs/ar-pv-001.01caa48d.mp3",
           "ms": 1680,
           "words": [
             {
